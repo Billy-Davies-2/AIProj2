@@ -1,3 +1,7 @@
+# Coded By: William Davies
+# Date: 03/19/2016
+# Class CMSC 471
+# Project: AI Project 2
 # imports
 import matplotlib
 from mpl_toolkits.mplot3d import axes3d
